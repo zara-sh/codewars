@@ -1,5 +1,5 @@
 
-function isAlt(word) {
+function isAlt(word)  {
   // happy codinggg
   var arr=word.split("");
   var vowel=["a","e","i","o","u"];
