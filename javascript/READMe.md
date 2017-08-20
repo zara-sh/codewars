@@ -50,7 +50,7 @@ function isAlt(word) {
 }
 
 
-#findOdd
+# FindOdd
 
 //Given an array, find the int that appears an odd number of times.
 
@@ -69,7 +69,7 @@ Test.describe('Example tests', function() {
   doTest([5,4,3,2,1,5,4,3,2,10,10], 1);
 });
 
-#RowSumOddNumbers
+# RowSumOddNumbers
 
 *Given the triangle of consecutive odd numbers:
 
